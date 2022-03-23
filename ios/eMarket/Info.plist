@@ -35,6 +35,10 @@
 			</dict>
 		</dict>
 	</dict>
+		<key>NSCameraUsageDescription</key>
+	<string>eMarket requires access to your phone's Camera</string>
+		<key>NSPhotoLibraryUsageDescription</key>
+	<string>eMarket requires access to your phone's Gallery</string>
 	<key>UILaunchStoryboardName</key>
 	<string>SplashScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>

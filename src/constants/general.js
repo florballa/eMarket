@@ -1,0 +1,1 @@
+export const DEFAULT_IMAGE_URL = "C:\Users\User\Desktop\GIT\eMarket\src\assets\images\avatar-blank.png";
